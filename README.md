@@ -9,7 +9,7 @@ A el tanto alumnos como profesor iremos subiendo el código que generemos a part
 
 Licencia
 --------
-
+zdf
 ![cc by nc sa](http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png "Reconocimiento-NoComercial-CompartirIgual 3.0 Unported")
 
 Curso de introducción a la programación Android is licensed under a Creative Commons Reconocimiento-NoComercial-CompartirIgual 3.0 Unported License.
