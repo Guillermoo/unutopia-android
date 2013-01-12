@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Curso Android</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="splash_title">Curso Android</string>
+    <string name="splash_subtitle">Subtítulo</string>
+    <string name="splash_content">Este contenido puede ser blalblalbla. lakj3fijdk3lahn s dj soae añdhe3i fhaik h</string>
+    <string name="splash_unutopia">unutopia</string>
+    <string name="about_text"> ¿Es que nadie va a hacer nada? El mes pasado hablabesa actitud tan española no sólo nos incapacita para cumplir las normas, sino también para defender nuestros derechos. Incluso, en los casos más extremos, nos impide percibir siquiera que nuestros derechos están siendo pisoteados.
+Nuestra indefensión antede otros países.  o simplemente RT por favor.</string>
+    <string name="about_license"> Que sera, sera (Whatever will be, will be), por Sly the Family Stone. Una de las mejores versiones de todos los tiempos. Punto. No es necesario que se crean mi opinión: cualquiera puede comprobarlo con sus propios oídos. Supongo que todo el mundo conoce la melodía más bien tontorrona que Doris Day cantaba en la célebre película de Alfred Hitchcock, El hombre que sabía demasiado. Jamás me ha gustado lo más mínimo esa canción —de hecho me parece ligeramente irritante—, así que no deja de asombrarme lo que Sly Stone fue capaz de hacer con ella. Ya en la época resultaba extraño que un músico conocido por su tendencia a la experimentación, que estaba rompiendo moldes en la industria, se decantara por adaptar una canción de Doris Day. De hecho, la versión tiene una historia curiosa detrás: durante mucho tiempo se dijo que Sly la grabó tras tener un affaire amoroso con Doris Day, que era veinte años mayor que ella.</string>
+    
+</resources>
