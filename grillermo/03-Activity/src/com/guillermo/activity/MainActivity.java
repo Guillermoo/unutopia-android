@@ -4,6 +4,7 @@ import android.os.Bundle;
 import android.app.Activity;
 import android.content.Context;
 import android.content.Intent;
+import android.text.TextPaint;
 import android.util.Log;
 import android.view.Menu;
 import android.view.View;
@@ -29,7 +30,7 @@ public class MainActivity extends Activity {
 				Context context = MainActivity.this;
 				Intent intent = new Intent(context, Activity2.class);
 				
-				intent.putExtra("EXTRA_TEXTO", "PENE");
+				intent.putExtra("EXTRA_TEXTO", texto.getText());
 				
 				startActivity(intent);
 				

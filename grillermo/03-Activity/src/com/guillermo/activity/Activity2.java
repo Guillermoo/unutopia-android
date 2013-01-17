@@ -82,3 +82,8 @@ public class Activity2 extends Activity implements OnClickListener {
 	}
 
 }
+
+/*
+ * 	- Define una zona clickable en `SplashActivity` de tal forma que cuando el usuario pulse en ella salte a `ArticleListActivity`
+	- Modifica el menú de `ArticleListActivity` para que tenga una opción con el texto "Acerca de..." cuando se pulse se deberá mostrar `AboutActivity`
+	*/

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ListActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string-array name="datos">
+        <item>Mingladillas</item>
+        <item>Lepe</item>
+        <item>Ainielle</item>
+    </string-array>
+
+</resources>
