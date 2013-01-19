@@ -7,8 +7,13 @@ import android.os.Bundle;
 import android.annotation.TargetApi;
 import android.app.Activity;
 import android.view.Menu;
+import android.view.View;
+import android.view.View.OnClickListener;
+import android.widget.AdapterView;
+import android.widget.AdapterView.OnItemClickListener;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
+import android.widget.Toast;
 
 public class MainActivity extends Activity {
 
@@ -23,6 +28,19 @@ public class MainActivity extends Activity {
 		ArrayAdapter<String> adapter = new ArrayAdapter(this, android.R.layout.simple_list_item_1,datos); 
 		
 		listView.setAdapter(adapter);
+		
+		listView.setOnItemClickListener(new OnItemClickListener() {
+
+			@Override
+			public void onItemClick(AdapterView<?> adapter, View arg1, int position,
+					long arg3) {
+				// TODO Auto-generated method stub
+				Toast.makeText(MainActivity.this, 
+						(String) adapter.getItemAtPosition(position), 
+						Toast.LENGTH_LONG).show();
+			}
+
+		});
 		
 	}
 
